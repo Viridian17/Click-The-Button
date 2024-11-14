@@ -2,4 +2,4 @@
 
 ## Description
 Just click it.
-Trust me, nothing bad will happen.
+Trust me.
